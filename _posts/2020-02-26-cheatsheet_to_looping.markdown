@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Cheatsheet to Looping"
-date:       2020-02-26 06:20:28 +0000
+date:       2020-02-26 01:20:29 -0500
 permalink:  cheatsheet_to_looping
 ---
 
