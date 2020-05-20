@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Sinatra Project App"
-date:       2020-05-20 04:58:50 +0000
+date:       2020-05-20 00:58:51 -0400
 permalink:  sinatra_project_app
 ---
 
@@ -30,5 +30,6 @@ First Part:
 	
 	Overall I thought the project was interesting and fun to create, I got to try out using flash error messages which I thought were interesting and took a couple of run throughs of the app to find out the best place to use them. What I need to improve on is saving my code after doing a little bit to keep it organized on my commits. I kept just doing work and can see that it would be tough for someone to go over the process I went through since I would work until I felt like I did enough, save and come back later to it. My next project will definitely be more organized.
 
+	
 	
 	
