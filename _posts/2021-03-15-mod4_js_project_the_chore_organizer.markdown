@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Mod4 JS project The Chore Organizer!"
-date:       2021-03-15 20:05:57 +0000
+date:       2021-03-15 16:05:58 -0400
 permalink:  mod4_js_project_the_chore_organizer
 ---
 
